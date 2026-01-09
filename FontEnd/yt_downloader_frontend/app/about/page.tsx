@@ -28,11 +28,11 @@ export default function About() {
           <div className="grid md:grid-cols-3 gap-6 mb-6">
             <div className="bg-blue-900 rounded-lg p-4 border border-blue-800">
               <h4 className="font-bold text-blue-400 mb-2">Backend</h4>
-              <p className="text-gray-300 text-sm">Java, JavaScript, Python</p>
+              <p className="text-gray-300 text-sm">Java, JavaScript, Python, C#</p>
             </div>
             <div className="bg-purple-900 rounded-lg p-4 border border-purple-800">
               <h4 className="font-bold text-purple-400 mb-2">Frontend</h4>
-              <p className="text-gray-300 text-sm">HTML5, CSS3, TypeScript, Next.js</p>
+              <p className="text-gray-300 text-sm">HTML5, CSS3, TypeScript, Next.js, Blazor</p>
             </div>
             <div className="bg-pink-900 rounded-lg p-4 border border-pink-800">
               <h4 className="font-bold text-pink-400 mb-2">Base de Datos</h4>
